@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chiara
 - 👀 I’m interested in reading books, travelling and Japan culture 
 - 🤿 Passionate scuba diver 
-- 💻 Bioinformatician 
-- 🌱 I'm currently working as a PhD student in a private research insitute in Berlin. 
+- 💻 Bioinformatician, currently in Berlin 
 - 📫 How to reach me: chiarabasaglia@yahoo.it
 
 <!---
