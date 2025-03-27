@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chiara
 - 👀 I’m interested in reading books, travelling and Japan culture 
-- 🤿 Passionate scuba diver 
+- 🤿 Passionate scuba diver
+- ✨ Web3 & DeSci enthusiast 
 - 💻 Bioinformatician, currently in Berlin 
 - 📫 How to reach me: chiarabasaglia@yahoo.it
 
