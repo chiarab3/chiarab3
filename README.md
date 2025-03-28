@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books, travelling and Japan culture 
 - 🤿 Passionate scuba diver
 - ✨ Web3 & DeSci enthusiast 
-- 💻 Bioinformatician, currently in Berlin 
+- 💻 Bioinformatician & Biomedical Data Analyst, currently in Berlin 
 - 📫 How to reach me: chiarabasaglia@yahoo.it
 
 <!---
